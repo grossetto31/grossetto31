@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working as a data analyst
 
-- 🌱 I’m currently learning *Python e SQL*
+- 🌱 I’m currently learning *Python*
 
-- 💬 Ask me about *Power BI e Excel*
+- 💬 Ask me about *Power BI, Excel and SQL*
 
 - 📫 How to reach me *gabrielpayao@hotmail.com*
 
