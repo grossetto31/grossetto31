@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a data analyst
 
-- 🌱 I’m currently learning *Python*
+- 🌱 I’m currently learning *Python and AWS*
 
 - 💬 Ask me about *Power BI, Excel and SQL*
 
