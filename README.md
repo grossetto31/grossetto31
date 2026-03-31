@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning *Python and AWS*
 
-- 💬 Ask me about *Power BI, Excel and SQL*
+- 💬 Ask me about *Power BI and SQL*
 
 - 📫 How to reach me *gabrielpayao@hotmail.com*
 
